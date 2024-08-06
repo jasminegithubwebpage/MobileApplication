@@ -7,4 +7,4 @@ Go to the vs code terminal
 
 Enter the following Commands
 git init
-git push 
+git clone https://github.com/jasminegithubwebpage/MobileApplication
